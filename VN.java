@@ -177,9 +177,7 @@ public class VN implements KeyListener{
 					}
 					}
 					textBox.setText(info[0]);
-					if (sceneChange(next)){
-					pointCheck();
-					}
+					if (sceneChange(next)) {}
 					ImageIcon image1 = new ImageIcon(Dir);
 					ImageIcon image2 = new ImageIcon(BGDir);
 					panel.setChar(image1);
