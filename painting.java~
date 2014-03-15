@@ -1,0 +1,51 @@
+import java.awt.*;
+import java.awt.image.BufferedImage;
+import javax.swing.*;
+
+public class painting extends JPanel{
+    String BGDir;
+    String Dir;
+    private int Width;
+    private int Height;
+    private Image image1;
+    private Image image2;
+    private ImageIcon j;
+    private ImageIcon i;
+    public painting(int h, int w, String BG, String Char){
+	BGDir = BG;
+	Dir = Char;
+	Height = h;
+	Width = w;
+	System.out.println(BGDir);
+	System.out.println(Dir);
+	try{
+	image1 = (new ImageIcon(Char)).getImage();
+	image2 = (new ImageIcon(BG)).getImage();
+	}catch(Exception e){
+	    System.out.println("no such file");
+	}
+	
+	invalidate();
+	validate();
+	repaint();
+    }
+    public void update(Graphics g){
+	paintComponent(g);
+    }
+    public void paintComponent(Graphics g){
+	super.paintComponent(g);
+	//PAINTS THE BACKGROUND 
+	Graphics2D g2 = (Graphics2D)g;
+	System.out.println(BGDir);
+	System.out.println(Dir);
+	g2.drawImage(image2, 0, 0, getWidth(),(int)(getWidth()*.533), null); 
+	//PAINTS THE SCALED CHARACTER 
+	g2.drawImage(image1, 
+		    (int)(Width/6.22), 
+		    (int)(Height*.246), 
+		    (int)(Height*.754*.2376),  
+		    (int)(Height*.754), 
+		    null); 
+	
+    }
+}
