@@ -264,21 +264,6 @@ public class VN implements KeyListener{
 	}
 	}
 
-	public void pointCheck (){
-	if (scene == 2){
-		if (char1.isFailing(-1,-1,-1,-1) || char2.isFailing(-1,-1,-1,-1) ||
-		char3.isFailing(-1,-1,-1,-1)){
-		textBox.setText("G A M E  O V E R!");
-		}
-	}
-	else if (scene == 3){
-		if (char1.isFailing(2,2,2,2) || char2.isFailing(2,2,2,2) ||
-		char3.isFailing(2,2,2,2)){
-		textBox.setText("G A M E  O V E R!");
-		}
-	}
-	}
-
 	public void keyReleased (KeyEvent e) {}
 	public void keyPressed (KeyEvent e) {}
 	public void keyTyped (KeyEvent e) {}
