@@ -1,0 +1,635 @@
+S1D1B0
+
+#
+Me
+I've recently moved back to my hometown, Tokyo, after having lived in Kyoto for several years because of my father moving for his work. I've transferred into Oosai high school and am in the second year class. I wonder what kind of classmates I have. I can't wait to meet them.
+#
+
+@
+~images/Characters/
+~images/Backgrounds/Hall.png
+@
+
+%
+*S1D2B0
+%
+
+S1D2B0
+
+#
+Teacher
+This is Akiyama Haruto, he's a transfer student from Kyoto. -player- please introduce yourself.
+#
+
++
+1,0,0,0,0;
+2,0,0,0,0;
+3,-1,-1,-1,-1;
++
+
+@
+~images/Characters/
+~images/Backgrounds/Classroom.png
+@
+
+%
+*S1D3B0
+%
+
+S1D3B0
+
+$
+Me
+(1) Hello, I'm Akiyama Haruto. 
+(2) Hello everybody, I'm Akiyama Haruto. I’m from here, but moved away to Kyoto because of my father's work. I look forward to getting along with everybody. 
+(3) Hi everybody! I can't wait to meet everyone! 
+(4) ...-silent-
+$
+
+@
+~images/Characters/
+~images/Backgrounds/Classroom.png
+@
+
+%
+*S1D3B1
+*S1D3B2
+*S1D3B1
+*S1D3B4
+%
+
+S1D3B1
+
+#
+Teacher
+Thank you Haruto, please take your seat next to Yui.
+#
+
+
+@
+~images/Characters/
+~images/Backgrounds/Classroom.png
+@
+
+%
+*S1D4B0
+%
+
+S1D3B2
+
+#
+Teacher
+Welcome back to Tokyo Haruto. Please take your seat next to Yui.
+#
+
++
++
+
+@
+~images/Characters/
+~images/Backgrounds/Classroom.png
+@
+
+%
+*S1D4B0
+%
+
+S1D3B4
+
+#
+Teacher
+Well, you must be nervous. Very well, please take your seat next to Yui. Class will begin shortly
+#
+@
+~images/Characters/
+~images/Backgrounds/Classroom.png
+@
+%
+*S1D4B0
+%
+
+S1D4B0
+
+#
+Me
+I sit down at my seat and notice the person next to me looks strangely familiar.
+#
+
+@
+~images/Characters/C3Smile.png
+~images/Backgrounds/Classroom.png
+@
+
+%
+*S1D5B0
+%
+
+S1D5B0
+
+#
+Yui
+Hi Haruto! It's been so long since I've seen you. You've changed so much!
+#
+
+@
+~images/Characters/C3Happy.png
+~images/Backgrounds/Classroom.png
+@
+
+%
+*S1D6B0
+%
+
+S1D6B0
+
+$
+Me
+(1) Do I know you?
+(2) I could say the same for you, Yui.
+(3) Any you haven't changed at all.
+(4) Yeah, nice to see you too.
+$
+
+@
+~images/Characters/C3Smile.png
+~images/Backgrounds/Classroom.png
+@
+
+%
+*S1D6B1
+*S1D6B2
+*S1D6B3
+*S1D6B4
+%
+
+S1D6B1
+
+#
+Yui
+Do you really not recognize me? It's me, Kotegawa Yui!
+#
+
+@
+~images/Characters/C3Pout.png
+~images/Backgrounds/Classroom.png
+@
+
+%
+*S1D7B0
+%
+
+S1D6B2
+
+#
+Yui
+Haha, yeah. Well it's been a while.
+#
+@
+~images/Characters/C3Smile.png
+~images/Backgrounds/Classroom.png
+@
+
+%
+*S1D8B0
+%
+S1D6B3
+#
+Yui
+That's not true, I have changed! Look! I got taller!
+Anyway, how have you been?
+#
+
+
+%
+*S1D8B0
+%
+
+@
+~images/Characters/C3Pout.png
+~images/Backgrounds/Classroom.png
+@
+S1D6B4
+#
+How have you been?
+#
+@
+~images/Characters/C3Smile.png
+~images/Backgrounds/Classroom.png
+@
+
+%
+*S1D8B0
+%
+
+S1D7B0
+
+$
+Me
+(1) Nope, doesn't ring a bell.
+(2) Oh! Yui, you've changed so much!
+(3) I was just kidding. Of course I'd remember you!
+$
+@
+~images/Characters/C3Pout.png
+~images/Backgrounds/Classroom.png
+@
+%
+*S1D7B1
+*S1D7B2
+*S1D7B2
+%
+
+S1D7B1
+#
+Yui
+Hmph. Enough with the jokes. Anyway, how have you been, -player-?
+#
+@
+~images/Characters/C3Sad.png
+~images/Backgrounds/Classroom.png
+@
+
+S1D7B2
+#
+Yui
+Haha, yeah. It's been a while hasn't it. How have you been?
+#
+@
+~images/Characters/C3ClosedSmile.png
+~images/Backgrounds/Classroom.png
+@
+
+%
+*S1D8B0
+%
+
+S1D8B0
+$
+Me
+(1) I've been well. I couldn't wait to come back and see you.
+(2) I was doing pretty well up until my parents dragged me back to Toyko.
+(3) I'm fine, but it's going to take a while to get used to this school and city again..
+$
+@
+~images/Characters/C3Smile.png
+~images/Backgrounds/Classroom.png
+@
+
+%
+*S1D9B1
+*S1D9B2
+*S1D9B3
+%
+
+S1D9B1
+#
+Yui
+I'm happy to hear that. Class is about to start, I'll talk to you later.
+#
+
+@
+~images/Characters/C3SquintSmile.png
+~images/Backgrounds/Classroom.png
+@
+
+%
+*S1D12B0
+%
+
+S1D9B2
+
+#
+Yui
+Aww don't be like that, there's plenty of great things about Tokyo!
+#
+
+@
+~images/Characters/C3Sad.png
+~images/Backgrounds/Classroom.png
+@
+
+%
+*S1D11B0
+%
+
+S1D9B3
+
+#
+Yui
+Ah, that's understandable. I'm sure you'll get used to it in no time! I could show you around sometime if you want.
+#
+
+@
+~images/Characters/C3Smile.png
+~images/Backgrounds/Classroom.png
+@
+
+%
+*S1D13B0
+%
+
+S1D11B0
+$
+Me
+(1) In that case, could you show me around sometime?
+(2) Like what?
+(3) I'd rather have stayed in Kyoto where my friends are.
+$
+
+@
+~images/Characters/C3Sad.png
+~images/Backgrounds/Classroom.png
+@
+
+%
+*S1D12B1
+*S1D12B2
+*S1D12B3
+%
+
+S1D12B1
+
+#
+Yui
+Sure!
+#
+
+@
+~images/Characters/C3ClosedSmile.png
+~images/Backgrounds/Classroom.png
+@
+
+%
+*S1D14B0
+%
+
+S1D12B2
+
+#
+Yui
+Like uh..... There's too many to name. I'll show you around sometime. Anyway, class is starting. 
+#
+
+@
+~images/Characters/C3Smile.png
+~images/Backgrounds/Classroom.png
+@
+
+%
+*S1D14B0
+%
+
+S1D12B3
+
+#
+Yui
+Now now, don't be like that. I'm here aren't I? Anyway, class is starting. I'll talk to you later.
+#
+
+@
+~images/Characters/C3Neutral.png
+~images/Backgrounds/Classroom.png
+@
+
+%
+*S1D14B0
+
+%
+S1D13B0
+
+#
+Me
+Sure.
+#
+
+@
+~images/Characters/C3Smile.png
+~images/Backgrounds/Classroom.png
+@
+
+%
+*S1D14B0
+%
+
+S1D14B0
+
+#
+Me
+That Yui is energetic is always. I wonder who else I'll meet here. 
+#
+
+@
+~images/Characters/
+~images/Backgrounds/Classroom.png
+@
+%
+*S2D1B0
+%
+
+
+S2D1B0
+#
+Ryuuzouji Akane
+Hi there, Haruto. I'm Akane, the current student council president. I'll be showing you around the school.You've transferred here during your second year of high school so you'll have to get yourself situated quickly. If you need any help with anything, you can always come to me.
+#
+%
+*S2D2B0
+%
+@
+~images/Characters/C1Smile.png
+~images/Backgrounds/Hall.png
+@
+
+S2D2B0
+$
+(1) I'll try my best. Thanks Akane.
+(2) I'll be fine without your help.
+(3) Let's just get the tour over with.
+(4) Thank you, those ribbons look very nice on you, Akane.
+$
+
+%
+*S2D3B1
+*S2D3B2
+*S2D3B2
+*S2D3B3
+%
+@
+~images/Characters/C1Smile.png
+~images/Backgrounds/Hall.png
+@
+
+S2D3B1
+#
+Ryuuzouji Akane
+That's good to hear. Let's start the tour.
+#
+%
+*S2D4B0
+%
+@
+~images/Characters/C1Happy.png
+~images/Backgrounds/Hall.png
+@
+S2D3B2
+#
+Ryuuzouji Akane
+Very well. Let us start the tour.
+#
+%
+*S2D4B0
+%
+@
+~images/Characters/C1Annoyed.png
+~images/Backgrounds/Hall.png
+@
+S2D3B3
+#
+Ryuuzouji Akane
+Why thank you. These are from my mother, who passed away a while ago..
+Anyway, let's start the tour.
+#
+%
+*S2D4B0
+%
+@
+~images/Characters/C1Sad.png
+~images/Backgrounds/Hall.png
+@
+S2D4B0
+#
+Ryuuzouji Akane
+This is the library. You can find books to read, do research, study, etc. 
+#
+%
+*S2D5B0
+%
+@
+~images/Characters/C1Smile.png
+~images/Backgrounds/Library.png
+@
+S2D5B0
+$
+Me
+(1) Wow, this is a very nice library.
+(2) Ok. 
+(3) What's next?
+(4) Is it okay if I take a look inside?
+$
+@
+~images/Characters/C1Smile.png
+~images/Backgrounds/Library.png
+@
+%
+*S2D6B1
+*S2D6B2
+*S2D6B3
+*S2D6B4
+%
+S2D6B1
+#
+Ryuuzouji Akane
+Yes it is. I come here fairly often to study. Let's continue.
+#
+@
+~images/Characters/C1SmileOpen.png
+~images/Backgrounds/Library.png
+@
+%
+*S2D11B0
+%
+S2D6B2
+#
+Ryuuzouji Akane
+Next up is the school entrance and garden.
+#
+%
+*S2D11B0
+%
+@
+~images/Characters/C1SmileOpen.png
+~images/Backgrounds/Hall.png
+@
+S2D6B3
+#
+Ryuuzouji Akane
+Here's a hint. You've seen it already.
+#
+%
+*S2D11B0
+%
+@
+~images/Characters/C1Smile.png
+~images/Backgrounds/Hall.png
+@
+S2D6B4
+#
+Ryuuzouji Akane
+Sure, take your time.
+#
+%
+*S2D7B0
+%
+S2D7B0
+#
+Me
+-oof- 
+~you fall~
+#
+%
+*S2D8B0
+%
+@
+~images/Characters/
+~images/Backgrounds/Hall.png
+@
+
+#
+Stranger
+Sorry about that, I'm so sorry. Sorry for making you listen to my ugly voice, sorry for wasting your precious time, sorry for making contact with you.
+-the girl runs off-
+#
+%
+*S2D9B0
+%
+@
+~images/Characters/
+~images/Backgrounds/Library.png
+@
+
+S2D9B0
+#
+I wonder what that was all about.
+#
+%
+*S2D10B0
+%
+@
+~images/Characters/
+~images/Backgrounds/Library.png
+@
+
+S2D10B0
+#
+Ryuuzouji Akane
+Are you okay Haruto? Let's continue.
+#
+%
+*S2D11B0
+%
+@
+~images/Characters/C1Smile.png
+~images/Backgrounds/Library.png
+@
+
+S2D11B0
+#
+TO BE CONTINUED...
+‚Â‚Ã‚­
+#
+@
+~images/Characters/C1Smile.png
+~images/Backgrounds/Entrance.png
+@
+
+
